@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qzK6DQwGXRIERpJu2gn6m0aRKjEjuPVVWsRR6iWOodX22S56vhZBTNX7LqbTiycvy63KukqpM2Fl4WkHfkdyzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rishu\\source\\repos\\ThoughtWorks\\ThoughtWorks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rishu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Rishu\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

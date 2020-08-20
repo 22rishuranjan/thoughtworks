@@ -1,0 +1,15 @@
+C:\Users\Rishu\source\repos\ThoughtWorks\bin\Debug\netcoreapp3.1\ThoughtWorks.exe
+C:\Users\Rishu\source\repos\ThoughtWorks\bin\Debug\netcoreapp3.1\ThoughtWorks.deps.json
+C:\Users\Rishu\source\repos\ThoughtWorks\bin\Debug\netcoreapp3.1\ThoughtWorks.runtimeconfig.json
+C:\Users\Rishu\source\repos\ThoughtWorks\bin\Debug\netcoreapp3.1\ThoughtWorks.runtimeconfig.dev.json
+C:\Users\Rishu\source\repos\ThoughtWorks\bin\Debug\netcoreapp3.1\ThoughtWorks.dll
+C:\Users\Rishu\source\repos\ThoughtWorks\bin\Debug\netcoreapp3.1\ThoughtWorks.pdb
+C:\Users\Rishu\source\repos\ThoughtWorks\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rishu\source\repos\ThoughtWorks\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Rishu\source\repos\ThoughtWorks\obj\Debug\netcoreapp3.1\ThoughtWorks.AssemblyInfoInputs.cache
+C:\Users\Rishu\source\repos\ThoughtWorks\obj\Debug\netcoreapp3.1\ThoughtWorks.AssemblyInfo.cs
+C:\Users\Rishu\source\repos\ThoughtWorks\obj\Debug\netcoreapp3.1\ThoughtWorks.csproj.CoreCompileInputs.cache
+C:\Users\Rishu\source\repos\ThoughtWorks\obj\Debug\netcoreapp3.1\ThoughtWorks.csproj.CopyComplete
+C:\Users\Rishu\source\repos\ThoughtWorks\obj\Debug\netcoreapp3.1\ThoughtWorks.dll
+C:\Users\Rishu\source\repos\ThoughtWorks\obj\Debug\netcoreapp3.1\ThoughtWorks.pdb
+C:\Users\Rishu\source\repos\ThoughtWorks\obj\Debug\netcoreapp3.1\ThoughtWorks.genruntimeconfig.cache
